@@ -1,0 +1,6 @@
+Pumpkin Candle|4.50|1|Type X
+Vanilla Candle|4.25|2|Type X
+Rose Candle|4.25|3|Type Y
+Lavender Candle|4.50|4|Type Y
+Jasmine Candle|4.50|5|Type Z
+Mango Candle|4.50|6|Type Z
